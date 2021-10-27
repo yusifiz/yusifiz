@@ -1,5 +1,5 @@
 <div align="center">
-<img width="75%" height = "250px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="cover" />
+<img width="75%" height = "250px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="cover" align="right" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
@@ -8,8 +8,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yusifiz.yusifiz)
 
 </p>
-<div size='20px'> Hi! My name is Yusif. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&lines=I'm+Yusif+Osmanov)]( https://yusifizz.herokuapp.com)
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
@@ -51,6 +50,8 @@
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=aydansamedova&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yusifiz&count_private=true&show_icons=true&theme=dark" />
 </a>
