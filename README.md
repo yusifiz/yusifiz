@@ -2,13 +2,13 @@
 <img width="50%" height = "250px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="cover" align="right" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=yusifiz.yusifiz)
-
-</p>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&lines=I'm+Yusif+Osmanov)]( http://yusifizz.herokuapp.com/)
+</p>
+
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
