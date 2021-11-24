@@ -17,9 +17,7 @@
 
 - 🔭 I’m currently working on Django development
 
-- 🌱 I’m currently learning Python/Django 
-
-- 👯 I’m looking to collaborate on  
+- 🌱 I’m currently learning Python/Django  
 
 - 💬 Talk to me about Python, Flask, Django, Cyber Security 
 
@@ -43,7 +41,7 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://medium.com/@yusifosmanov475'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'yusifizz.herokuapp.com'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://yusifizz.herokuapp.com'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/yusifiz'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 
