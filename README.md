@@ -53,9 +53,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yusifiz&count_private=true&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<!-- <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusifiz&theme=dark" />
-</a>
+</a> -->
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yusifiz&theme=dark)
 
