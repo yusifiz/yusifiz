@@ -51,14 +51,14 @@
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yusifiz&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=yusifiz&count_private=true&show_icons=true&theme=dark" <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yusifiz&theme=dark" /> />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=yusifiz&count_private=true&show_icons=true&theme=dark" padding='0px' />
 
 </a>
 <!-- <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusifiz&theme=dark" />
 </a> -->
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yusifiz&theme=dark" padding= />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=yusifiz&theme=dark" />
 
 <br>
 
