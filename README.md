@@ -56,7 +56,7 @@
 <!-- <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusifiz&theme=dark" />
 </a> -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusifiz&theme=dark" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusifiz&theme=dark" width='100px' />
 
 
 <br>
