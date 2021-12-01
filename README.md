@@ -57,7 +57,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusifiz&theme=dark" />
 </a>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yusifiz)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yusifiz&theme=dark)
 
 <br>
 
