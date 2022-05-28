@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
 <img width="50%" height = "250px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="cover" align="right" />
-</div>
+</div> -->
 
 <h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
